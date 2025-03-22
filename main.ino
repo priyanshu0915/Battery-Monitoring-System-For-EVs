@@ -6,8 +6,8 @@
 #include <ESPmDNS.h>
 
 // WiFi Credentials
-const char* ssid = "Priyanshu's Galaxy M53 5G";
-const char* password = "23022017";
+const char* ssid = "Enter ssid here";
+const char* password = "password of hotspot";
 const char* hostname = "evbattery";
 
 IPAddress local_IP(192, 168, 1, 200); 
