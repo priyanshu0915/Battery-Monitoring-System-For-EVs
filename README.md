@@ -39,8 +39,4 @@ This is an **IoT-based battery monitoring system** designed to track and optimiz
 
 ---
 
-## 🚀 Installation & Setup  
-1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/priyanshu0915/Battery-Monitoring-System.git
-   cd Battery-Monitoring-System
+
